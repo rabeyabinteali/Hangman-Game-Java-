@@ -8,7 +8,7 @@ The classic hangman game implemented using Java  (Javax, Swing, etc).
 ### Score
 ![Score](screenshot/score.png)
 ### Option
-![Option](screenshot/Option.png)
+![Option](screenshot/Options.png)
 ### Game
 ![GamePlay](screenshot/game.png)
 ### Congratulations
