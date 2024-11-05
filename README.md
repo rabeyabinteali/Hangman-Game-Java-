@@ -4,16 +4,20 @@ The classic hangman game implemented using Java  (Javax, Swing, etc).
 ### Home
 ![Home](screenshot/HomePage.png)
 ### Rules
-![Home](screenshot/Rules.png)
+![Rules](screenshot/Rules.png)
 ### Score
-![Home](screenshot/score.png)
+![Score](screenshot/score.png)
 ### Option
-![Home](screenshot/Option.png)
+![Option](screenshot/Option.png)
 ### Game
-![Home](screenshot/game.png)
+![GamePlay](screenshot/game.png)
+### Congratulations
+![Congratulations Message](screenshot/congo.png)
+### Game Over
+![Consolation Game Over Message](screenshot/gameover.png)
 ### Hint
 Every hint costs 5 score points
-![Home](screenshot/hintavailed.png)
-![Home](screenshot/hintshown.png)
+![Gameplay Hint](screenshot/hintavailed.png)
+![Gameplay Hint](screenshot/hintshown.png)
 ### Exit
-![Home](screenshot/exit.png)
+![Exit](screenshot/exit.png)
