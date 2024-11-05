@@ -21,3 +21,6 @@ Every hint costs 5 score points
 ![Gameplay Hint](screenshot/hintshown.png)
 ### Exit
 ![Exit](screenshot/exit.png)
+
+# Note
+If trying to implement this project on your device, please change the filepaths accordingly.
