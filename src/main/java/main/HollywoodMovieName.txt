@@ -1,0 +1,500 @@
+The Shawshank Redemption
+Release Year: 1994 IMDb Rating: 9.3
+The Godfather
+Release Year: 1972 IMDb Rating: 9.2
+The Dark Knight
+Release Year: 2008 IMDb Rating: 9.0
+The Godfather Part II
+Release Year: 1974 IMDb Rating: 9.0
+12 Angry Men
+Release Year: 1957 IMDb Rating: 9.0
+Schindler's List
+Release Year: 1993 IMDb Rating: 9.0
+The Lord of the Rings: The Return of the King
+Release Year: 2003 IMDb Rating: 9.0
+Pulp Fiction
+Release Year: 1994 IMDb Rating: 8.9
+The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001 IMDb Rating: 8.8
+Forrest Gump
+Release Year: 1994 IMDb Rating: 8.8
+Fight Club
+Release Year: 1999 IMDb Rating: 8.8
+The Lord of the Rings: The Two Towers
+Release Year: 2002 IMDb Rating: 8.8
+Inception
+Release Year: 2010 IMDb Rating: 8.8
+Spider-Man: Across the Spider-Verse
+Release Year: 2023 IMDb Rating: 8.8
+Star Wars: Episode V - The Empire Strikes Back
+Release Year: 1980 IMDb Rating: 8.7
+The Matrix
+Release Year: 1999 IMDb Rating: 8.7
+Goodfellas
+Release Year: 1990 IMDb Rating: 8.7
+One Flew Over the Cuckoo's Nest
+Release Year: 1975 IMDb Rating: 8.7
+It's a Wonderful Life
+Release Year: 1946 IMDb Rating: 8.6
+Interstellar
+Release Year: 2014 IMDb Rating: 8.7
+Se7en
+Release Year: 1995 IMDb Rating: 8.6
+The Silence of the Lambs
+Release Year: 1991 IMDb Rating: 8.6
+Saving Private Ryan
+Release Year: 1998 IMDb Rating: 8.6
+The Green Mile
+Release Year: 1999 IMDb Rating: 8.6
+Star Wars: Episode IV - A New Hope
+Release Year: 1977 IMDb Rating: 8.6
+Terminator 2: Judgment Day
+Release Year: 1991 IMDb Rating: 8.6
+Oppenheimer
+Release Year: 2023 IMDb Rating: 8.6
+Back to the Future
+Release Year: 1985 IMDb Rating: 8.5
+The Pianist
+Release Year: 2002 IMDb Rating: 8.5
+Psycho
+Release Year: 1960 IMDb Rating: 8.5
+The Lion King
+Release Year: 1994 IMDb Rating: 8.5
+Gladiator
+Release Year: 2000 IMDb Rating: 8.5
+Léon: The Professional
+Release Year: 1994 IMDb Rating: 8.5
+American History X
+Release Year: 1998 IMDb Rating: 8.5
+The Departed
+Release Year: 2006 IMDb Rating: 8.5
+The Prestige
+Release Year: 2006 IMDb Rating: 8.5
+Whiplash
+Release Year: 2014 IMDb Rating: 8.5
+The Usual Suspects
+Release Year: 1995 IMDb Rating: 8.5
+Casablanca
+Release Year: 1942 IMDb Rating: 8.5
+Modern Times
+Release Year: 1936 IMDb Rating: 8.5
+Rear Window
+Release Year: 1954 IMDb Rating: 8.5
+Alien
+Release Year: 1979 IMDb Rating: 8.5
+Apocalypse Now
+Release Year: 1979 IMDb Rating: 8.4
+Django Unchained
+Release Year: 2012 IMDb Rating: 8.5
+Memento
+Release Year: 2000 IMDb Rating: 8.4
+Indiana Jones and the Raiders of the Lost Ark
+Release Year: 1981 IMDb Rating: 8.4
+WALL·E
+Release Year: 2008 IMDb Rating: 8.4
+Sunset Blvd.
+Release Year: 1950 IMDb Rating: 8.4
+Witness for the Prosecution
+Release Year: 1957 IMDb Rating: 8.4
+Paths of Glory
+Release Year: 1957 IMDb Rating: 8.4
+The Great Dictator
+Release Year: 1940 IMDb Rating: 8.4
+Avengers: Infinity War
+Release Year: 2018 IMDb Rating: 8.4
+Spider-Man: Into the Spider-Verse
+Release Year: 2018 IMDb Rating: 8.4
+The Shining
+Release Year: 1980 IMDb Rating: 8.4
+Aliens
+Release Year: 1986 IMDb Rating: 8.4
+The Dark Knight Rises
+Release Year: 2012 IMDb Rating: 8.4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Release Year: 1964 IMDb Rating: 8.4
+Avengers: Endgame
+Release Year: 2019 IMDb Rating: 8.4
+Coco
+Release Year: 2017 IMDb Rating: 8.4
+Amadeus
+Release Year: 1984 IMDb Rating: 8.4
+Inglourious Basterds
+Release Year: 2009 IMDb Rating: 8.3
+Joker
+Release Year: 2019 IMDb Rating: 8.4
+American Beauty
+Release Year: 1999 IMDb Rating: 8.3
+Braveheart
+Release Year: 1995 IMDb Rating: 8.3
+Toy Story
+Release Year: 1995 IMDb Rating: 8.3
+Once Upon a Time in America
+Release Year: 1984 IMDb Rating: 8.3
+Good Will Hunting
+Release Year: 1997 IMDb Rating: 8.3
+Singin' in the Rain
+Release Year: 1952 IMDb Rating: 8.3
+Hamilton
+Release Year: 2020 IMDb Rating: 8.3
+Requiem for a Dream
+Release Year: 2000 IMDb Rating: 8.3
+Toy Story 3
+Release Year: 2010 IMDb Rating: 8.3
+Star Wars: Episode VI - Return of the Jedi
+Release Year: 1983 IMDb Rating: 8.3
+Eternal Sunshine of the Spotless Mind
+Release Year: 2004 IMDb Rating: 8.3
+2001: A Space Odyssey
+Release Year: 1968 IMDb Rating: 8.3
+Double Indemnity
+Release Year: 1944 IMDb Rating: 8.3
+The Apartment
+Release Year: 1960 IMDb Rating: 8.3
+Lawrence of Arabia
+Release Year: 1962 IMDb Rating: 8.3
+Reservoir Dogs
+Release Year: 1992 IMDb Rating: 8.3
+North by Northwest
+Release Year: 1959 IMDb Rating: 8.3
+Citizen Kane
+Release Year: 1941 IMDb Rating: 8.3
+Vertigo
+Release Year: 1958 IMDb Rating: 8.3
+Scarface
+Release Year: 1983 IMDb Rating: 8.3
+To Kill a Mockingbird
+Release Year: 1962 IMDb Rating: 8.3
+The Sting
+Release Year: 1973 IMDb Rating: 8.3
+A Clockwork Orange
+Release Year: 1971 IMDb Rating: 8.3
+Full Metal Jacket
+Release Year: 1987 IMDb Rating: 8.3
+Heat
+Release Year: 1995 IMDb Rating: 8.3
+Judgment at Nuremberg
+Release Year: 1961 IMDb Rating: 8.3
+Up
+Release Year: 2009 IMDb Rating: 8.3
+The Kid
+Release Year: 1921 IMDb Rating: 8.2
+Indiana Jones and the Last Crusade
+Release Year: 1989 IMDb Rating: 8.2
+Top Gun: Maverick
+Release Year: 2022 IMDb Rating: 8.3
+Snatch
+Release Year: 2000 IMDb Rating: 8.2
+Die Hard
+Release Year: 1988 IMDb Rating: 8.2
+L.A. Confidential
+Release Year: 1997 IMDb Rating: 8.2
+1917
+Release Year: 2019 IMDb Rating: 8.2
+All About Eve
+Release Year: 1950 IMDb Rating: 8.2
+Taxi Driver
+Release Year: 1976 IMDb Rating: 8.2
+The Father
+Release Year: 2020 IMDb Rating: 8.2
+Some Like It Hot
+Release Year: 1959 IMDb Rating: 8.2
+Batman Begins
+Release Year: 2005 IMDb Rating: 8.2
+Green Book
+Release Year: 2018 IMDb Rating: 8.2
+The Wolf of Wall Street
+Release Year: 2013 IMDb Rating: 8.2
+The Treasure of the Sierra Madre
+Release Year: 1947 IMDb Rating: 8.2
+Casino
+Release Year: 1995 IMDb Rating: 8.2
+Shutter Island
+Release Year: 2010 IMDb Rating: 8.2
+The Truman Show
+Release Year: 1998 IMDb Rating: 8.2
+There Will Be Blood
+Release Year: 2007 IMDb Rating: 8.2
+Unforgiven
+Release Year: 1992 IMDb Rating: 8.2
+A Beautiful Mind
+Release Year: 2001 IMDb Rating: 8.2
+The Sixth Sense
+Release Year: 1999 IMDb Rating: 8.2
+The Great Escape
+Release Year: 1963 IMDb Rating: 8.2
+Jurassic Park
+Release Year: 1993 IMDb Rating: 8.2
+Monty Python and the Holy Grail
+Release Year: 1975 IMDb Rating: 8.2
+Spider-Man: No Way Home
+Release Year: 2021 IMDb Rating: 8.2
+The Thing
+Release Year: 1982 IMDb Rating: 8.2
+No Country for Old Men
+Release Year: 2007 IMDb Rating: 8.2
+Kill Bill: Vol. 1
+Release Year: 2003 IMDb Rating: 8.2
+The Elephant Man
+Release Year: 1980 IMDb Rating: 8.2
+Gone with the Wind
+Release Year: 1939 IMDb Rating: 8.2
+Dial M for Murder
+Release Year: 1954 IMDb Rating: 8.2
+Finding Nemo
+Release Year: 2003 IMDb Rating: 8.2
+Chinatown
+Release Year: 1974 IMDb Rating: 8.2
+V for Vendetta
+Release Year: 2005 IMDb Rating: 8.2
+Raging Bull
+Release Year: 1980 IMDb Rating: 8.1
+The Bridge on the River Kwai
+Release Year: 1957 IMDb Rating: 8.1
+Lock, Stock and Two Smoking Barrels
+Release Year: 1998 IMDb Rating: 8.1
+Inside Out
+Release Year: 2015 IMDb Rating: 8.1
+Prisoners
+Release Year: 2013 IMDb Rating: 8.1
+Klaus
+Release Year: 2019 IMDb Rating: 8.2
+Warrior
+Release Year: 2011 IMDb Rating: 8.1
+Three Billboards Outside Ebbing, Missouri
+Release Year: 2017 IMDb Rating: 8.1
+Trainspotting
+Release Year: 1996 IMDb Rating: 8.1
+To Be or Not to Be
+Release Year: 1942 IMDb Rating: 8.2
+Fargo
+Release Year: 1996 IMDb Rating: 8.1
+Mr. Smith Goes to Washington
+Release Year: 1939 IMDb Rating: 8.1
+On the Waterfront
+Release Year: 1954 IMDb Rating: 8.1
+Gran Torino
+Release Year: 2008 IMDb Rating: 8.1
+Barry Lyndon
+Release Year: 1975 IMDb Rating: 8.1
+Catch Me If You Can
+Release Year: 2002 IMDb Rating: 8.1
+Harry Potter and the Deathly Hallows: Part 2
+Release Year: 2011 IMDb Rating: 8.1
+Ben-Hur
+Release Year: 1959 IMDb Rating: 8.1
+The Best Years of Our Lives
+Release Year: 1946 IMDb Rating: 8.1
+Before Sunrise
+Release Year: 1995 IMDb Rating: 8.1
+In the Name of the Father
+Release Year: 1993 IMDb Rating: 8.1
+Million Dollar Baby
+Release Year: 2004 IMDb Rating: 8.1
+The Third Man
+Release Year: 1949 IMDb Rating: 8.1
+Mary and Max
+Release Year: 2009 IMDb Rating: 8.1
+Blade Runner
+Release Year: 1982 IMDb Rating: 8.1
+12 Years a Slave
+Release Year: 2013 IMDb Rating: 8.1
+Hacksaw Ridge
+Release Year: 2016 IMDb Rating: 8.1
+The Grand Budapest Hotel
+Release Year: 2014 IMDb Rating: 8.1
+The Deer Hunter
+Release Year: 1978 IMDb Rating: 8.1
+Gone Girl
+Release Year: 2014 IMDb Rating: 8.1
+Dead Poets Society
+Release Year: 1989 IMDb Rating: 8.1
+How to Train Your Dragon
+Release Year: 2010 IMDb Rating: 8.1
+Mad Max: Fury Road
+Release Year: 2015 IMDb Rating: 8.1
+Monsters, Inc.
+Release Year: 2001 IMDb Rating: 8.1
+Ford v Ferrari
+Release Year: 2019 IMDb Rating: 8.1
+The Grapes of Wrath
+Release Year: 1940 IMDb Rating: 8.1
+Jaws
+Release Year: 1975 IMDb Rating: 8.1
+Room
+Release Year: 2015 IMDb Rating: 8.1
+The Big Lebowski
+Release Year: 1998 IMDb Rating: 8.1
+Hotel Rwanda
+Release Year: 2004 IMDb Rating: 8.1
+The Red Shoes
+Release Year: 1948 IMDb Rating: 8.1
+All Quiet on the Western Front
+Release Year: 1930 IMDb Rating: 8.1
+Network
+Release Year: 1976 IMDb Rating: 8.1
+Ratatouille
+Release Year: 2007 IMDb Rating: 8.1
+Rocky
+Release Year: 1976 IMDb Rating: 8.1
+Logan
+Release Year: 2017 IMDb Rating: 8.1
+Hachi: A Dog's Tale
+Release Year: 2009 IMDb Rating: 8.1
+Before Sunset
+Release Year: 2004 IMDb Rating: 8.1
+Platoon
+Release Year: 1986 IMDb Rating: 8.1
+It Happened One Night
+Release Year: 1934 IMDb Rating: 8.1
+Paper Moon
+Release Year: 1973 IMDb Rating: 8.1
+Spotlight
+Release Year: 2015 IMDb Rating: 8.1
+Rebecca
+Release Year: 1940 IMDb Rating: 8.1
+Rush
+Release Year: 2013 IMDb Rating: 8.1
+Stand by Me
+Release Year: 1986 IMDb Rating: 8.1
+The Sound of Music
+Release Year: 1965 IMDb Rating: 8.1
+Into the Wild
+Release Year: 2007 IMDb Rating: 8.1
+The Terminator
+Release Year: 1984 IMDb Rating: 8.1
+Cool Hand Luke
+Release Year: 1967 IMDb Rating: 8.1
+The Wizard of Oz
+Release Year: 1939 IMDb Rating: 8.1
+Inherit the Wind
+Release Year: 1960 IMDb Rating: 8.1
+The Exorcist
+Release Year: 1973 IMDb Rating: 8.1
+The Man Who Shot Liberty Valance
+Release Year: 1962 IMDb Rating: 8.1
+Pirates of the Caribbean: The Curse of the Black Pearl
+Release Year: 2003 IMDb Rating: 8.1
+Paris, Texas
+Release Year: 1984 IMDb Rating: 8.1
+White Heat
+Release Year: 1949 IMDb Rating: 8.1
+The Incredibles
+Release Year: 2004 IMDb Rating: 8.0
+The Iron Giant
+Release Year: 1999 IMDb Rating: 8.1
+Ace in the Hole
+Release Year: 1951 IMDb Rating: 8.1
+Groundhog Day
+Release Year: 1993 IMDb Rating: 8.0
+The Help
+Release Year: 2011 IMDb Rating: 8.1
+Gandhi
+Release Year: 1982 IMDb Rating: 8.0
+Dances with Wolves
+Release Year: 1990 IMDb Rating: 8.0
+Life of Brian
+Release Year: 1979 IMDb Rating: 8.0
+A Woman Under the Influence
+Release Year: 1974 IMDb Rating: 8.1
+Scent of a Woman
+Release Year: 1992 IMDb Rating: 8.0
+Beauty and the Beast
+Release Year: 1991 IMDb Rating: 8.0
+Aladdin
+Release Year: 1992 IMDb Rating: 8.0
+Guardians of the Galaxy
+Release Year: 2014 IMDb Rating: 8.0
+Soul
+Release Year: 2020 IMDb Rating: 8.0
+Roman Holiday
+Release Year: 1953 IMDb Rating: 8.0
+Dog Day Afternoon
+Release Year: 1975 IMDb Rating: 8.0
+Kill Bill: Vol. 2
+Release Year: 2004 IMDb Rating: 8.0
+Lion
+Release Year: 2016 IMDb Rating: 8.0
+JFK
+Release Year: 1991 IMDb Rating: 8.0
+Donnie Darko
+Release Year: 2001 IMDb Rating: 8.0
+Song of the Sea
+Release Year: 2014 IMDb Rating: 8.0
+The Shop Around the Corner
+Release Year: 1940 IMDb Rating: 8.0
+The Princess Bride
+Release Year: 1987 IMDb Rating: 8.0
+Rosemary's Baby
+Release Year: 1968 IMDb Rating: 8.0
+Anatomy of a Murder
+Release Year: 1959 IMDb Rating: 8.0
+Slumdog Millionaire
+Release Year: 2008 IMDb Rating: 8.0
+The Imitation Game
+Release Year: 2014 IMDb Rating: 8.0
+Butch Cassidy and the Sundance Kid
+Release Year: 1969 IMDb Rating: 8.0
+Brief Encounter
+Release Year: 1945 IMDb Rating: 8.0
+Dune
+Release Year: 2021 IMDb Rating: 8.0
+The Avengers
+Release Year: 2012 IMDb Rating: 8.0
+La La Land
+Release Year: 2016 IMDb Rating: 8.0
+The Bourne Ultimatum
+Release Year: 2007 IMDb Rating: 8.0
+What Ever Happened to Baby Jane?
+Release Year: 1962 IMDb Rating: 8.0
+Magnolia
+Release Year: 1999 IMDb Rating: 8.0
+Casino Royale
+Release Year: 2006 IMDb Rating: 8.0
+The King's Speech
+Release Year: 2010 IMDb Rating: 8.0
+Rain Man
+Release Year: 1988 IMDb Rating: 8.0
+Black Swan
+Release Year: 2010 IMDb Rating: 8.0
+Sin City
+Release Year: 2005 IMDb Rating: 8.0
+The Message
+Release Year: 1976 IMDb Rating: 8.1
+The Legend of 1900
+Release Year: 1998 IMDb Rating: 8.0
+The Martian
+Release Year: 2015 IMDb Rating: 8.0
+Kind Hearts and Coronets
+Release Year: 1949 IMDb Rating: 8.0
+Dogville
+Release Year: 2003 IMDb Rating: 8.0
+The Pursuit of Happyness
+Release Year: 2006 IMDb Rating: 8.0
+Zootopia
+Release Year: 2016 IMDb Rating: 8.0
+Who's Afraid of Virginia Woolf?
+Release Year: 1966 IMDb Rating: 8.0
+Sweet Smell of Success
+Release Year: 1957 IMDb Rating: 8.0
+Secrets & Lies
+Release Year: 1996 IMDb Rating: 8.0
+The Graduate
+Release Year: 1967 IMDb Rating: 8.0
+The Straight Story
+Release Year: 1999 IMDb Rating: 8.0
+The Night of the Hunter
+Release Year: 1955 IMDb Rating: 8.0
+Planet of the Apes
+Release Year: 1968 IMDb Rating: 8.0
+12 Monkeys
+Release Year: 1995 IMDb Rating: 8.0
+Blood Diamond
+Release Year: 2006 IMDb Rating: 8.0
+Papillon
+Release Year: 1973 IMDb Rating: 8.0
+Her
+Release Year: 2013 IMDb Rating: 8.0
+Blade Runner 2049
+Release Year: 2017 IMDb Rating: 8.0
+Sling Blade
+Release Year: 1996 IMDb Rating: 8.0
